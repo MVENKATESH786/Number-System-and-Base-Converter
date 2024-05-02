@@ -15,7 +15,7 @@ Base Converter is a user-friendly web application designed to convert numbers be
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mvenkatesh786/BaseConverter.git`
+1. Clone the repository: `git clone  https://github.com/MVENKATESH786/Number-System-and-Base-Converter.git`
 2. Open the `index.html` file in your preferred browser.
 
 ## Usage
@@ -28,4 +28,4 @@ Base Converter is a user-friendly web application designed to convert numbers be
 ## Contact
 
 M Venkatesh - mvenkatesh0786@gmail.com
-Project Link: 
+Project Link: https://github.com/MVENKATESH786/Number-System-and-Base-Converter.git
